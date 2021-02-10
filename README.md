@@ -63,3 +63,5 @@ Use T5 and BERT models to perform question answering
 Week 4: Chatbots with a Reformer Model
 
 Build a chatbot using a reformer model
+
+![image](https://user-images.githubusercontent.com/55267125/107483630-597ce580-6ba7-11eb-88aa-2c33e639b8f1.png)
