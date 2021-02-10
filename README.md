@@ -1,6 +1,6 @@
 # NLP-Projects 
 
-Course 1: Classification and Vector Spaces in NLP
+# Course 1: Classification and Vector Spaces in NLP
 This is the first course of the Natural Language Processing Specialization.
 
 Week 1: Logistic Regression for Sentiment Analysis of Tweets
@@ -15,8 +15,8 @@ Use vector space models to discover relationships between words and use principa
 Week 4: Word Embeddings and Locality Sensitive Hashing for Machine Translation
 
 Write a simple English-to-French translation algorithm using pre-computed word embeddings and locality sensitive hashing to relate words via approximate k-nearest neighbors search
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Course 2: Probabilistic Models in NLP
+
+# Course 2: Probabilistic Models in NLP
 This is the second course of the Natural Language Processing Specialization.
 
 Week 1: Auto-correct using Minimum Edit Distance
@@ -31,8 +31,8 @@ Write a better auto-complete algorithm using an N-gram model (similar models are
 Week 4: Word2Vec and Stochastic Gradient Descent
 
 Write your own Word2Vec model that uses a neural network to compute word embeddings using a continuous bag-of-words model
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Course 3: Sequence Models in NLP
+
+# Course 3: Sequence Models in NLP
 This is the third course in the Natural Language Processing Specialization.
 
 Week 1: Sentiment with Neural Nets
@@ -47,8 +47,8 @@ Train a recurrent neural network to perform NER using LSTMs with linear layers
 Week 4: Siamese Networks
 
 Use so-called ‘Siamese’ LSTM models to compare questions in a corpus and identify those that are worded differently but have the same meaning
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Course 4: Attention Models in NLP
+
+# Course 4: Attention Models in NLP
 This is the fourth course in the Natural Language Processing Specialization.
 
 Week 1: Neural Machine Translation with Attention
@@ -63,4 +63,3 @@ Use T5 and BERT models to perform question answering
 Week 4: Chatbots with a Reformer Model
 
 Build a chatbot using a reformer model
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
